@@ -7,6 +7,7 @@ tasks = {'t1': {'todo': 'Call John for AmI project organization', 'urgent': True
          't6': {'todo': 'whatsapp Mary for a coffee', 'urgent': False}
          }
 
+
 urgent_tasks = {}
 index = 0
 
